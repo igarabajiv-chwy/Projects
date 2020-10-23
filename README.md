@@ -36,6 +36,6 @@ This repo is a representation of my journey in the programming world. The accomp
   - [**Assignments 1-5**](https://github.com/igarabajiv-chwy/Projects/tree/master/Python%20Beyond%20the%20Basics%20-%20Object-Oriented%20Programming)
   
 - [**Python For Data Analysis and Visualization**](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/learn/)
-  - [**Election Analysis**]()
+  - [**Election Analysis**](https://github.com/temutai/Projects/blob/master/Data%20Viz/Election%20Results.ipynb)
   - [**Stock Market Analysis**](https://github.com/temutai/Projects/blob/master/Data%20Viz/Stock%20Market%20Analysis.ipynb)
   - [**Titanic Survival Rate**](https://github.com/temutai/Projects/blob/master/Data%20Viz/Titanic%20Survival%20Rate.ipynb)
